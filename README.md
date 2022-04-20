@@ -1,2 +1,2 @@
 # caisanches.github.io
-Github PAges
+Github Pages
